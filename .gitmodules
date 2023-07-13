@@ -1,0 +1,4 @@
+[submodule "part0"]
+    path = submodulos/part0
+    url = git@github.com:Yermanama/part0.git
+    
